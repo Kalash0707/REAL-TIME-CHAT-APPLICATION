@@ -29,3 +29,5 @@ In conclusion, this Real-Time Chat Application is not just a simple messaging to
 ##OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/6857f334-3c30-4718-8f66-a36431c6eb69)
+
+<img width="927" height="415" alt="Image" src="https://github.com/user-attachments/assets/271be612-bd75-4314-9330-a586d265a13a" />
