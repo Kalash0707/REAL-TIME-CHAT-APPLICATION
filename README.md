@@ -25,3 +25,6 @@ From a developer’s perspective, setting up the project is straightforward. Beg
 This project can be further extended with features such as private messaging, media sharing (images, files), emoji support, and chat rooms. It also opens doors to learning about authentication, session management, and back-end integration using technologies like Firebase, MongoDB, or PostgreSQL. Because of its modular nature, this chat app can easily be embedded into larger applications such as e-learning platforms, customer service dashboards, gaming apps, or collaborative tools.
 
 In conclusion, this Real-Time Chat Application is not just a simple messaging tool but a full-fledged educational project that demonstrates the use of real-time technologies in modern web development. It gives hands-on experience with both the front-end and back-end aspects of communication systems and serves as a strong foundation for more advanced real-time applications in the future.
+
+##OUTPUT:
+
